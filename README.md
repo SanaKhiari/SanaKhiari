@@ -1,12 +1,12 @@
 
 [[MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9dlh6tYTla4B9Rt8dD6Z8ndA5MHGPAK3aN3iY2ujYsVVRqDKCjXYpaqT1ZLScnIlEes&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Sana Khiari</h1>
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
+
+<img align="right" alt="coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It%27s+Sana+khiari..&hearts;++;I'm+21+years+old;++;a+Computer+science+student;++;+at+(ESPRIT)+in+Tunisia;++;I+love+listening+to+music;++;watching+movies,+series..;++;Love+to+learn+new+skills...22"></a>
 </p>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-<p align="left">
   </div>
   
   
