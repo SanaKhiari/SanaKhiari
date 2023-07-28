@@ -2,12 +2,10 @@
 [[MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9dlh6tYTla4B9Rt8dD6Z8ndA5MHGPAK3aN3iY2ujYsVVRqDKCjXYpaqT1ZLScnIlEes&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Sana Khiari</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It%27s+Sana+khiari..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..%3C3%22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It%27s+Sana+khiari..&hearts;++;a+Computer+science+student+at+(ESPRIT)+in+ Tunisia+💻,;I'm+21+years+old,;I+love+listening+to+music+,watching+movies,+series.;Love+to+learn+new+skills..%3C3%22"></a>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-I'm Sana Khiari  a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 21 years old 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanakhiari&label=Profile%20views&color=0e75b6&style=flat" alt="sanakhiari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanakhiari" alt="sanakhiari" /></a> </p>
