@@ -17,7 +17,7 @@
 
 
 - 📫 How to reach me **sana.khiari@esprit.tn**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanakhiari&label=Profile%20views&color=0e75b6&style=flat" alt="sanakhiari" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
