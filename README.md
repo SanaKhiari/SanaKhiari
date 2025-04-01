@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sana Khiari</h1>
 <div >
 </p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It%27s+Sana+khiari..&hearts;++;Welcome to my GitHub! I'm a Computer Science student at ESPRIT Tunisia, passionate about Business Intelligence, Data Analytics, and Software Development. I love diving into data, visualizing insights, and building smart applications. 🚀 ;++🌱 I’m currently learning Machine Learning, NLP, Deep Learning "></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&color=F70000&width=575&height=61&lines=Welcome+to+my+GitHub!+I'm+a+Computer+Science+student+at+ESPRIT+Tunisia%2C;+passionate+about+Business+Intelligence%2C+Data+Analytics;%2C+and+Software+Development.+;I+love+diving+into+data%2C+visualizing+insights%2C;+and+building+smart+applications.+%F0%9F%9A%80;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Machine+Learning%2C+NLP%2C+Deep+Learning" alt="Typing SVG" /></a>
 </p>
 <img align="right" alt="coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
