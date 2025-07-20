@@ -104,7 +104,7 @@
 ### 🌐 Let's Connect!
 
 - 📧 Email: **sana.khiari@esprit.tn**
-- 💼 [www.linkedin.com/in/sana-khiari-data-science-engineer]
+- 💼 [LinkedIn](https://www.linkedin.com/in/sana-khiari-data-science-engineer)
 
 ---
 
